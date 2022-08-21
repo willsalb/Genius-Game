@@ -1,2 +1,2 @@
 # Genius-Game
-Jogos da memoria do genius
+Jogo da memoria do genius
